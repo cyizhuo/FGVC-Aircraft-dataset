@@ -1,9 +1,7 @@
-# FGVC-Aircraft-dataset
-The FGVC Aircraft dataset from:
+# FGVC Aircraft dataset by classes folder
+From:
 
 https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
-
-Images palced in folders by classes.
 
 Download from Kaggle:
 
